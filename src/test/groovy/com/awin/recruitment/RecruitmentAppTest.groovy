@@ -1,4 +1,4 @@
-package com.awin.transactionstoragetransactioneventextractor.domain.detector
+package com.awin.recruitment
 
 import spock.lang.Specification
 
